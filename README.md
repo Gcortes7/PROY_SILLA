@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Griselda Cortes Barrera</h1>
-<h3 align="center">Una apasionada desarrolladora frontend de la India</h3>
+<h3 align="center">Una apasionada desarrolladora frontend de México</h3>
 
 - 📫 Cómo contactarme **gcortes7772@gmail.com**
 
