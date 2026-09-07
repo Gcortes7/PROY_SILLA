@@ -5,7 +5,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/griselda-cortés-barrera-32b06927a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/griselda-cortés-barrera-32b06927a" altura="10" ancho="20" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/griselda-cortés-barrera-32b06927a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/griselda-cortés-barrera-32b06927a" alt="bootstrap" width="40" height="40" /></a>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
